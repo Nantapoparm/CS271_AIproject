@@ -2,7 +2,7 @@
 --> pip install virtualenv
 --> virtualenv env
 --> .\env\Scripts\activate.ps1
---> git clone https://github.com/jayeshbhandarkar/AgriGenius.git
+--> git clone https://github.com/Nantapoparm/CS271_AIproject.git
 --> cd AgriGenius
 --> pip install -r requirements.txt
 --> python app.py
