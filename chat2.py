@@ -5,7 +5,7 @@ from langchain_core.prompts import ChatPromptTemplate
 
 llm = ChatGroq(
     groq_api_key="gsk_xxxxxxxxxxLOCALHOSTXXXXXXXXXXXX",
-    model_name="llama-3.3-70b-versatile",
+    model_name="llama-3.1-8b-instant",
     temperature=0
 )
 
